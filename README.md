@@ -47,9 +47,3 @@ git clone https://github.com/your-username/alzheimers-detection.git
 ```bash
 jupyter notebook alzheimers_detection.ipynb
 ```
-
-
-# Contributors
-
-- Aarya Khandelwal
-- Aaradhya Verma
